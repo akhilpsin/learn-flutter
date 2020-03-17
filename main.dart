@@ -1,4 +1,4 @@
-class{
+class Person{
   String name;
   String post;
   String stack;
