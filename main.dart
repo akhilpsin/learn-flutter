@@ -1,4 +1,4 @@
-class Person{
+class person{
   String name;
   String post;
   String stack;
@@ -8,7 +8,7 @@ class Person{
 main()
 {
   print("Welcome Back,\n");
-  var peron1 = person();
+  var person1 = person();
   
   person1.name = "Rahul";
   person1.stack = "Flutter";
