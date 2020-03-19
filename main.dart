@@ -14,5 +14,10 @@ main()
   person1.stack = "Flutter";
   person1.post = "learner";
   
-
+  
+ var person2 = person();
+  
+  person2.name = "Akhil";
+  person2.stack = "Flutter";
+  person2.post = "learner";
 }
